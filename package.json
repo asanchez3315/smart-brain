@@ -2,7 +2,7 @@
   "name": "smartbrain",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://myname.github.io/myapp",  
+  "homepage" : "https://asanchez3315.github.io/smart-brain/",  
   "dependencies": {
     "gh-pages": "^2.0.1",
     "hoek": "^6.1.3",
